@@ -1,0 +1,7 @@
+Had a heck of a time getting a random agent to work. probably mostly because I have 
+not used c++ in a couple years. I was initially not even sure if we could overwrite 
+functions from a parent class initially. I implemeted if -> then rules to see if a 
+move will cause a loss by boxing the opponent, but it wasn't working by turn in.
+
+Thought I got the bugs out of the IsBoxing function, NOT! I tried to get a cluster 
+win anticipation to work but couldn't get the logic to wrap right.
